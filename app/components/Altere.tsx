@@ -22,32 +22,30 @@ const Altere = ({ altere, sorts, nomSorts }: AltereProps) => {
     .replace("ê", "e")
     .replace("œ", "oe");
   return (
-    <>
-      <Dialog.Root>
-        <Dialog.Trigger asChild>
-          <div className="flex flex-col items-center justify-between py-4 rounded-sm w-60 h-72 bg-secondary-blue">
-            <Image
-              src={`/img/alteres/${imgName}.png`}
-              width={100}
-              height={100}
-              alt={altere?.nom}
-              className="object-scale-down"
-            />
-            <p>{altere?.nom}</p>
-            <div className="flex flex-wrap self-start gap-2 px-4 text-sm">
-              {nomSorts?.map((sort: string, index: number) => {
-                return (
-                  <p className="px-2 py-1 text-xs rounded-sm bg-primary-blue" key={index}>
-                    {sort}
-                  </p>
-                );
-              })}
-            </div>
+    <Dialog.Root>
+      <Dialog.Trigger asChild>
+        <div className="flex flex-col items-center justify-between py-4 rounded-sm w-60 h-72 bg-secondary-blue hover:cursor-pointer hover:scale-105 duration-100">
+          <Image
+            src={`/img/alteres/${imgName}.png`}
+            width={100}
+            height={100}
+            alt={altere?.nom}
+            className="object-scale-down "
+          />
+          <p>{altere?.nom}</p>
+          <div className="flex flex-wrap self-start gap-2 px-4 text-sm">
+            {nomSorts?.map((sort: string, index: number) => {
+              return (
+                <p className="px-2 py-1 text-xs rounded-sm bg-primary-blue" key={index}>
+                  {sort}
+                </p>
+              );
+            })}
           </div>
-        </Dialog.Trigger>
-        <DialogLayout altere={altere} sorts={nomSorts} detailSorts={sorts} />
-      </Dialog.Root>
-    </>
+        </div>
+      </Dialog.Trigger>
+      <DialogLayout altere={altere} sorts={nomSorts} detailSorts={sorts} />
+    </Dialog.Root>
   );
 };
 

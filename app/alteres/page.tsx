@@ -21,7 +21,7 @@ const page = () => {
         onChange={(e) => setSearchQuery(e.target.value)}
       />
       {/* <div className="flex gap-4"><p>feu</p> <p>terre</p> <p>air</p> <p>eau</p></div> */}
-      <div className="flex flex-wrap h-full gap-10 overflow-y-scroll">
+      <div className="flex flex-wrap h-full p-2 gap-10 overflow-y-scroll">
         {alteres
           .filter((altere: IAltere) => altere.nom.toLowerCase().includes(searchQuery.toLowerCase()))
           .map((altere: IAltere, index: number) => {

@@ -13,7 +13,7 @@ const Header = () => {
         </h1>
       </div>
       <div className="flex items-center justify-center w-full gap-40 font-bold">
-        <DropdownMenu.Root>
+        {/* <DropdownMenu.Root>
           <DropdownMenu.Trigger asChild>
             <button className="uppercase select-none hover:cursor-pointer" aria-label="Customise options">
               Altérés
@@ -29,13 +29,16 @@ const Header = () => {
               </DropdownMenu.Item>
             </DropdownMenu.Content>
           </DropdownMenu.Portal>
-        </DropdownMenu.Root>
+        </DropdownMenu.Root> */}
+        <Link href={"alteres"} className="uppercase select-none hover:cursor-pointer">
+          Liste des altérés
+        </Link>
         <Link href={"equipements"} className="uppercase select-none hover:cursor-pointer">
           Équipements
         </Link>
-        <Link href={"monstres"} className="uppercase select-none hover:cursor-pointer">
+        {/* <Link href={"monstres"} className="uppercase select-none hover:cursor-pointer">
           Monstres
-        </Link>
+        </Link> */}
       </div>
     </div>
   );
