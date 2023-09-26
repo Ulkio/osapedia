@@ -1,0 +1,27 @@
+{
+    "alteres": [
+        {
+            "numero": 1,
+            "nom": "Carafon",
+            "rarete": "Commun",
+            "obtention": "Drop",
+            "sorts": [
+                {
+                    "nom": "",
+                    "effet": "",
+                    "cout": 0,
+                    "portee": "1-2",
+                    "critique": 30,
+                    "info": ""
+                }
+            ],
+            "zones": [
+                {
+                    "nom": "",
+                    "region": ""
+                }
+            ],
+            "kromatique": "CarafonX"
+        }
+    ]
+}

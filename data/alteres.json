@@ -1,0 +1,1502 @@
+[
+    {
+      "id": 26493,
+      "numero": 1,
+      "nom": "Flambourou",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plage de la Tortue)\nAltéré  (Forêt des Masques)\nAltéré  (Chemin du Crâne)\nAltéré  (Jungle Interdite)",
+      "actif": "Dendrolag, Wombaffe, Bourbond",
+      "passif": ""
+    },
+    {
+      "id": 26494,
+      "numero": 2,
+      "nom": "Walabraise",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Walabraise: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Flambourou, 1 * Dragolait, 2 * Ballon Jaune Magique, 1 * Dents du Meulou",
+      "actif": "Dendroux, Wonbaston, Charbond",
+      "passif": ""
+    },
+    {
+      "id": 26495,
+      "numero": 3,
+      "nom": "Mimistrale",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plaine des Porkass)\nAltéré  (Massif de Cania, Lac de Cania)\nAltéré  (Pics de Cania)",
+      "actif": "Aquilon, Borée, Alizé",
+      "passif": ""
+    },
+    {
+      "id": 26496,
+      "numero": 4,
+      "nom": "Sirokrone",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Sirokrone: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Mimistrale, 1 * Défense de Dragon Cochon, 2 * Dent du Kharnozor, 1 * Testicules du Meulou",
+      "actif": "Aquilonde, Borépulse, Alizoum",
+      "passif": ""
+    },
+    {
+      "id": 26497,
+      "numero": 5,
+      "nom": "Tapipou",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Marécages nauséabonds)\nAltéré  (Marécages sans fond, Territoire des Dragodindes Sauvages)\nAltéré  (Forêt de Kaliptus, Marécages d'Amakna)\nAltéré  (Lacs enchantés, Canyon sauvage)\nAltéré  (Antre du Koulosse)",
+      "actif": "Trompe, Tapiquette, Herbizut",
+      "passif": ""
+    },
+    {
+      "id": 26498,
+      "numero": 6,
+      "nom": "Bétapir",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Bétapir: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Tapipou, 1 * Poil de Dragon Cochon, 2 * Peau de Moon, 1 * Mojo du Meulou",
+      "actif": "Trompe Sonneuse, Tapirouette, Herbivouac",
+      "passif": ""
+    },
+    {
+      "id": 26499,
+      "numero": 7,
+      "nom": "Amphibulle",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Mine des Dopeuls, Village des Dopeuls, Baie de Cania)\nAltéré  (Champs de Cania)\nAltéré  (Routes Rocailleuses)",
+      "actif": "Néoténie, Amphission, Axson",
+      "passif": ""
+    },
+    {
+      "id": 26500,
+      "numero": 8,
+      "nom": "Amphibrute",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Amphibrute: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Amphibulle, 1 * Cuir du Dragon Cochon, 2 * Broderie de Malléfisk, 1 * Œil du Meulou",
+      "actif": "Néoténia, Amphusion, Axsonar",
+      "passif": ""
+    },
+    {
+      "id": 26501,
+      "numero": 9,
+      "nom": "Marcastagne",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cimetière, Route des âmes, Lac, Mine, Forêt, Champs, Pâturages)\nAltéré  (Sufokia)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)",
+      "actif": "Marcacharge, Pécarisette, Faisandage",
+      "passif": ""
+    },
+    {
+      "id": 26502,
+      "numero": 10,
+      "nom": "Sanglouton",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "error",
+      "actif": "Phacocharge, Pécariposte, Venaison",
+      "passif": ""
+    },
+    {
+      "id": 26503,
+      "numero": 11,
+      "nom": "Zébuffle",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cimetière, Route des âmes, Lac, Mine, Forêt, Champs, Pâturages)",
+      "actif": "Gamousse, Yackalélo, Baudrier",
+      "passif": ""
+    },
+    {
+      "id": 26504,
+      "numero": 12,
+      "nom": "Fanfacarme",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cimetière, Route des âmes, Lac, Mine, Forêt, Champs, Pâturages)\nAltéré  (Sufokia)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)",
+      "actif": "Orphéon, Fracastagne, Fanfaronnade",
+      "passif": ""
+    },
+    {
+      "id": 26505,
+      "numero": 13,
+      "nom": "Rirequin",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cimetière, Route des âmes, Lac, Mine, Forêt, Champs, Pâturages)\nAltéré  (Promontoire des cieux, Rives iridescentes, Faubourgs des artisans, Havres d'ivoire, Cœur immaculé)\nAltéré  (Pâturages de Bonta)\nAltéré  (Cimetière des Héros)\nAltéré  (Plaines Rocheuses)",
+      "actif": "Hystérire, Satire, Ricanement",
+      "passif": ""
+    },
+    {
+      "id": 26506,
+      "numero": 14,
+      "nom": "Crapoisseux",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cimetière, Route des âmes, Lac, Mine, Forêt, Champs, Pâturages)\nAltéré  (La Cuirasse, L'Ancre, La Marmite, L'Enclume)\nAltéré  (Bordure de Brâkmar, Cimetière des Torturés)",
+      "actif": "Bombave, Crapotage, Verrue",
+      "passif": ""
+    },
+    {
+      "id": 26507,
+      "numero": 15,
+      "nom": "Batravage",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Batravage: 1 * Hormone Piouïque, 2 * Mutagène, 1 * Crapoisseux",
+      "actif": "Pélobatte, Bactratage, Bactral",
+      "passif": ""
+    },
+    {
+      "id": 26508,
+      "numero": 16,
+      "nom": "Démonstre",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cimetière, Route des âmes, Lac, Mine, Forêt, Champs, Pâturages)\nAltéré  (Sufokia)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)",
+      "actif": "Diabolitige, Maléfissure, Infernaze",
+      "passif": ""
+    },
+    {
+      "id": 26509,
+      "numero": 17,
+      "nom": "Harpiège",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cimetière, Route des âmes, Lac, Mine, Forêt, Champs, Pâturages)\nAltéré  (Promontoire des cieux, Rives iridescentes, Faubourgs des artisans, Havres d'ivoire, Cœur immaculé)\nAltéré  (Pâturages de Bonta)\nAltéré  (Cimetière des Héros)\nAltéré  (Plaines Rocheuses)",
+      "actif": "Harpirouette, Volpiège, Piélixir",
+      "passif": ""
+    },
+    {
+      "id": 26510,
+      "numero": 18,
+      "nom": "Cachalouche",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Sufokia)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)",
+      "actif": "Cachavire, C'est assez !, Odontocète",
+      "passif": ""
+    },
+    {
+      "id": 26511,
+      "numero": 19,
+      "nom": "Staturbin",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Promontoire des cieux, Rives iridescentes, Faubourgs des artisans, Havres d'ivoire, Cœur immaculé)\nAltéré  (Sufokia)\nAltéré  (Pâturages de Bonta)\nAltéré  (Cimetière des Héros)\nAltéré  (Plaines Rocheuses)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)",
+      "actif": "Effigie, Colonnade, Moulure",
+      "passif": ""
+    },
+    {
+      "id": 26512,
+      "numero": 20,
+      "nom": "Statueur",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Statueur: 1 * Hormone Pichonïque, 2 * Mutagène, 1 * Staturbin, 2 * Laine de Bouftou Royal",
+      "actif": "Piédestal, Colossage, Marbrure",
+      "passif": ""
+    },
+    {
+      "id": 26513,
+      "numero": 21,
+      "nom": "Dravage",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (La Cuirasse, L'Ancre, La Marmite, L'Enclume)\nAltéré  (Bordure de Brâkmar, Cimetière des Torturés)",
+      "actif": "Toxierge, Saccage, Circulave",
+      "passif": ""
+    },
+    {
+      "id": 26514,
+      "numero": 22,
+      "nom": "Globerlu",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Sufokia)\nAltéré  (La Cuirasse, L'Ancre, La Marmite, L'Enclume)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)\nAltéré  (Bordure de Brâkmar, Cimetière des Torturés)",
+      "actif": "Dioptrie, Bigle, Mirobuste",
+      "passif": ""
+    },
+    {
+      "id": 26515,
+      "numero": 23,
+      "nom": "Vaudoudou",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Promontoire des cieux, Rives iridescentes, Faubourgs des artisans, Havres d'ivoire, Cœur immaculé)\nAltéré  (La Cuirasse, L'Ancre, La Marmite, L'Enclume)\nAltéré  (Sufokia)\nAltéré  (Pâturages de Bonta)\nAltéré  (Cimetière des Héros)\nAltéré  (Plaines Rocheuses)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)\nAltéré  (Bordure de Brâkmar, Cimetière des Torturés)",
+      "actif": "Tuberculte, Rituel, Fétiche",
+      "passif": ""
+    },
+    {
+      "id": 26516,
+      "numero": 24,
+      "nom": "Corboyau",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (La Cuirasse, L'Ancre, La Marmite, L'Enclume)\nAltéré  (Promontoire des cieux, Rives iridescentes, Faubourgs des artisans, Havres d'ivoire, Cœur immaculé)\nAltéré  (Pâturages de Bonta)\nAltéré  (Cimetière des Héros)\nAltéré  (Plaines Rocheuses)\nAltéré  (Bordure de Brâkmar, Cimetière des Torturés)",
+      "actif": "Ombroyau, Corvidé, Présage",
+      "passif": ""
+    },
+    {
+      "id": 26517,
+      "numero": 25,
+      "nom": "Corboyar",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Corboyar: 1 * Hormone Bouftouïque, 2 * Mutagène, 1 * Corboyau, 2 * Manuel du Directeur Grunob",
+      "actif": "Ombroyar, Corvus, Augure",
+      "passif": ""
+    },
+    {
+      "id": 26518,
+      "numero": 26,
+      "nom": "Épicruelle",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Promontoire des cieux, Rives iridescentes, Faubourgs des artisans, Havres d'ivoire, Cœur immaculé)\nAltéré  (Pâturages de Bonta)\nAltéré  (Cimetière des Héros)\nAltéré  (Plaines Rocheuses)",
+      "actif": "Cruoterre, Épicrucifix, Rosace",
+      "passif": ""
+    },
+    {
+      "id": 26519,
+      "numero": 27,
+      "nom": "Niékaille",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Promontoire des cieux, Rives iridescentes, Faubourgs des artisans, Havres d'ivoire, Cœur immaculé)\nAltéré  (La Cuirasse, L'Ancre, La Marmite, L'Enclume)\nAltéré  (Sufokia)\nAltéré  (Pâturages de Bonta)\nAltéré  (Cimetière des Héros)\nAltéré  (Plaines Rocheuses)\nAltéré  (Plaine des Scarafeuilles)\nAltéré  (Rivage sufokien)\nAltéré  (Péninsule des gelées)\nAltéré  (Territoire des Porcos)\nAltéré  (Bordure de Brâkmar, Cimetière des Torturés)",
+      "actif": "Tritonbeau, Niéclat, Urodélire",
+      "passif": ""
+    },
+    {
+      "id": 26520,
+      "numero": 28,
+      "nom": "Éclaboule",
+      "rarity": "",
+      "obtention": "Reward",
+      "value": "error",
+      "actif": "Buvard, Encrituel, Bulencre",
+      "passif": ""
+    },
+    {
+      "id": 26521,
+      "numero": 29,
+      "nom": "Grapince",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Champs d'Astrub, Souterrains d'Astrub, Prairies d'Astrub, Calanques d'Astrub, Cité d'Astrub)\nAltéré  (Port de Madrestam, Campagne d'Amakna, Coin des Bouftous, Bord de la forêt maléfique, Côte d'Asse, Rivière Kawaii)\nAltéré  (Carrière d'Astrub, Forêt d'Astrub, Égouts d'Astrub, Cimetière d'Astrub, Tainéla)\nAltéré  (Clairière de Brouce Boulgoure, Millifutaie, Coin des Boos, Champ des Ingalsse, Forêt d'Amakna, Cimetière, Cryptes du cimetière)\nAltéré  (Montagne des Craqueleurs, Territoire des Bandits, Passage vers Brâkmar)\nAltéré  (Montagne basse des Craqueleurs)",
+      "actif": "Picoulée, Volcanisme, Effluves",
+      "passif": ""
+    },
+    {
+      "id": 26522,
+      "numero": 30,
+      "nom": "Scorpince",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Scorpince: 1 * Hormone Scarafïque, 3 * Mutagène admirable, 1 * Grapince, 2 * Serrure du Coffre des Forgerons",
+      "actif": "Épicoulée, Stromboli, Effluence",
+      "passif": ""
+    },
+    {
+      "id": 26523,
+      "numero": 31,
+      "nom": "Mistigré",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Port de Madrestam, Campagne d'Amakna, Coin des Bouftous, Bord de la forêt maléfique, Côte d'Asse, Rivière Kawaii)\nAltéré  (Clairière de Brouce Boulgoure, Millifutaie, Coin des Boos, Champ des Ingalsse, Forêt d'Amakna, Cimetière, Cryptes du cimetière)\nAltéré  (Montagne des Craqueleurs, Territoire des Bandits, Passage vers Brâkmar)\nAltéré  (Montagne basse des Craqueleurs)",
+      "actif": "Minet, Félidèche, Galéphobie",
+      "passif": ""
+    },
+    {
+      "id": 26524,
+      "numero": 32,
+      "nom": "Tékilarve",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Champs d'Astrub, Souterrains d'Astrub, Prairies d'Astrub, Calanques d'Astrub, Cité d'Astrub)\nAltéré  (Port de Madrestam, Campagne d'Amakna, Coin des Bouftous, Bord de la forêt maléfique, Côte d'Asse, Rivière Kawaii)\nAltéré  (Carrière d'Astrub, Forêt d'Astrub, Égouts d'Astrub, Cimetière d'Astrub, Tainéla)\nAltéré  (Clairière de Brouce Boulgoure, Millifutaie, Coin des Boos, Champ des Ingalsse, Forêt d'Amakna, Cimetière, Cryptes du cimetière)\nAltéré  (Montagne des Craqueleurs, Territoire des Bandits, Passage vers Brâkmar)\nAltéré  (Montagne basse des Craqueleurs)",
+      "actif": "Mucus, Cocontact, Glutte",
+      "passif": ""
+    },
+    {
+      "id": 26525,
+      "numero": 33,
+      "nom": "Magivrée",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Champs d'Astrub, Souterrains d'Astrub, Prairies d'Astrub, Calanques d'Astrub, Cité d'Astrub)\nAltéré  (Port de Madrestam, Campagne d'Amakna, Coin des Bouftous, Bord de la forêt maléfique, Côte d'Asse, Rivière Kawaii)\nAltéré  (Carrière d'Astrub, Forêt d'Astrub, Égouts d'Astrub, Cimetière d'Astrub, Tainéla)\nAltéré  (Clairière de Brouce Boulgoure, Millifutaie, Coin des Boos, Champ des Ingalsse, Forêt d'Amakna, Cimetière, Cryptes du cimetière)\nAltéré  (Montagne des Craqueleurs, Territoire des Bandits, Passage vers Brâkmar)\nAltéré  (Montagne basse des Craqueleurs)",
+      "actif": "Talisman, Féerixe, Charme",
+      "passif": ""
+    },
+    {
+      "id": 26526,
+      "numero": 34,
+      "nom": "Minicorne",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Champs d'Astrub, Souterrains d'Astrub, Prairies d'Astrub, Calanques d'Astrub, Cité d'Astrub)\nAltéré  (Port de Madrestam, Campagne d'Amakna, Coin des Bouftous, Bord de la forêt maléfique, Côte d'Asse, Rivière Kawaii)\nAltéré  (Carrière d'Astrub, Forêt d'Astrub, Égouts d'Astrub, Cimetière d'Astrub, Tainéla)\nAltéré  (Clairière de Brouce Boulgoure, Millifutaie, Coin des Boos, Champ des Ingalsse, Forêt d'Amakna, Cimetière, Cryptes du cimetière)\nAltéré  (Montagne des Craqueleurs, Territoire des Bandits, Passage vers Brâkmar)\nAltéré  (Montagne basse des Craqueleurs)",
+      "actif": "Cornemusc, Pâture, Bétail",
+      "passif": ""
+    },
+    {
+      "id": 26527,
+      "numero": 35,
+      "nom": "Mysticorne",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Mysticorne: 1 * Hormone Wabbïque, 3 * Mutagène admirable, 1 * Minicorne, 2 * Feuille de Blop Royal",
+      "actif": "Encornemusc, Déprédation, Méchoui",
+      "passif": ""
+    },
+    {
+      "id": 26528,
+      "numero": 36,
+      "nom": "Rouzé",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Champs d'Astrub, Souterrains d'Astrub, Prairies d'Astrub, Calanques d'Astrub, Cité d'Astrub)\nAltéré  (Carrière d'Astrub, Forêt d'Astrub, Égouts d'Astrub, Cimetière d'Astrub, Tainéla)",
+      "actif": "Perfidie, Débrouille, Maliz'yeux",
+      "passif": ""
+    },
+    {
+      "id": 26529,
+      "numero": 37,
+      "nom": "Tournesouffre",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Port de Madrestam, Campagne d'Amakna, Coin des Bouftous, Bord de la forêt maléfique, Côte d'Asse, Rivière Kawaii)\nAltéré  (Clairière de Brouce Boulgoure, Millifutaie, Coin des Boos, Champ des Ingalsse, Forêt d'Amakna, Cimetière, Cryptes du cimetière)\nAltéré  (Montagne des Craqueleurs, Territoire des Bandits, Passage vers Brâkmar)\nAltéré  (Montagne basse des Craqueleurs)\nAltéré  (Village des Bworks)",
+      "actif": "Pétalage, Nectarte, Pansemer",
+      "passif": ""
+    },
+    {
+      "id": 26530,
+      "numero": 38,
+      "nom": "Musculard",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Champs d'Astrub, Souterrains d'Astrub, Prairies d'Astrub, Calanques d'Astrub, Cité d'Astrub)\nAltéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Carrière d'Astrub, Forêt d'Astrub, Égouts d'Astrub, Cimetière d'Astrub, Tainéla)\nAltéré  (Village des Bworks)",
+      "actif": "Salaison, Squatelette, Dynamuscle",
+      "passif": ""
+    },
+    {
+      "id": 26531,
+      "numero": 39,
+      "nom": "Tarentruc",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Port de Madrestam, Campagne d'Amakna, Coin des Bouftous, Bord de la forêt maléfique, Côte d'Asse, Rivière Kawaii)\nAltéré  (Clairière de Brouce Boulgoure, Millifutaie, Coin des Boos, Champ des Ingalsse, Forêt d'Amakna, Cimetière, Cryptes du cimetière)\nAltéré  (Montagne des Craqueleurs, Territoire des Bandits, Passage vers Brâkmar)\nAltéré  (Montagne basse des Craqueleurs)\nAltéré  (Village des Bworks)",
+      "actif": "Venipic, Vénépic, Hologastre",
+      "passif": ""
+    },
+    {
+      "id": 26532,
+      "numero": 40,
+      "nom": "Tarentrax",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Tarentrax: 1 * Hormone Kannibïque, 3 * Mutagène admirable, 1 * Tarentruc, 2 * Étoffe de Draegnerys, 2 * Pierre du Craqueleur Légendaire",
+      "actif": "Venipik, Vénépik, Chélicères",
+      "passif": ""
+    },
+    {
+      "id": 26533,
+      "numero": 41,
+      "nom": "Mimolosse",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Village des Bworks)",
+      "actif": "Mol'Os, Clébaffe, Canidèche",
+      "passif": ""
+    },
+    {
+      "id": 26534,
+      "numero": 42,
+      "nom": "Grocodile",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Champs d'Astrub, Souterrains d'Astrub, Prairies d'Astrub, Calanques d'Astrub, Cité d'Astrub)\nAltéré  (Carrière d'Astrub, Forêt d'Astrub, Égouts d'Astrub, Cimetière d'Astrub, Tainéla)\nAltéré  (Village des Bworks)",
+      "actif": "Grocroco, Grocrocage, Grocolosse",
+      "passif": ""
+    },
+    {
+      "id": 26535,
+      "numero": 43,
+      "nom": "Escribe",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cloaque d'Amakna)\nAltéré  (Mine des Dopeuls, Village des Dopeuls, Baie de Cania)\nAltéré  (Plaine des Porkass)\nAltéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Village des Bworks)\nAltéré  (Champs de Cania)\nAltéré  (Routes Rocailleuses)\nAltéré  (Massif de Cania, Lac de Cania)\nAltéré  (Pics de Cania)\nAltéré  (Canaux méphitiques, Entrailles de Brâkmar)",
+      "actif": "Groboullis, Scribouillage, Hurlescript",
+      "passif": ""
+    },
+    {
+      "id": 26536,
+      "numero": 44,
+      "nom": "Chalafré",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plage de Corail)\nAltéré  (Plage de la Tortue)\nAltéré  (Île de la Cawotte)\nAltéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Village des Bworks)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Forêt des Masques)\nAltéré  (Chemin du Crâne)\nAltéré  (Jungle Interdite)\nAltéré  (Îlot de Waldo, Îlot des Tombeaux, Îlot de la Couronne)\nAltéré  ()\nAltéré  (Galeries abandonnées, Laboratoires abandonnés)",
+      "actif": "Estafilou, Stigmate, Moustirette",
+      "passif": ""
+    },
+    {
+      "id": 26537,
+      "numero": 45,
+      "nom": "Catcha",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Catcha: 1 * Hormone Désertïque, 3 * Mutagène admirable, 1 * Chalafré, 2 * Barbe du Wa Wobot, 2 * Carapace du Mantiscore",
+      "actif": "Estafilade, Balafre, Moustirade",
+      "passif": ""
+    },
+    {
+      "id": 26538,
+      "numero": 46,
+      "nom": "Sambalais",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Futaie enneigée)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Sambalayette, Dépoussiérage, Salsaleté",
+      "passif": ""
+    },
+    {
+      "id": 26539,
+      "numero": 47,
+      "nom": "Kwacougar",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Orée de la forêt des Abraknydes)\nAltéré  (Bois des Arak-haï, Forêt Sombre)",
+      "actif": "Pantagnan, Kwacou, Koubeh",
+      "passif": ""
+    },
+    {
+      "id": 26540,
+      "numero": 48,
+      "nom": "Cancrevette",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Marécages nauséabonds)\nAltéré  (Orée de la forêt des Abraknydes)\nAltéré  (Futaie enneigée)\nAltéré  (Campement des Gobelins, Campement des Bworks)\nAltéré  (Village des Bworks)\nAltéré  (Marécages sans fond, Territoire des Dragodindes Sauvages)\nAltéré  (Forêt de Kaliptus, Marécages d'Amakna)\nAltéré  (Lacs enchantés, Canyon sauvage)\nAltéré  (Antre du Koulosse)\nAltéré  (Bois des Arak-haï, Forêt Sombre)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Bagarre, Gambaston, Uppercure",
+      "passif": ""
+    },
+    {
+      "id": 26541,
+      "numero": 49,
+      "nom": "Koalache",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Mine des Dopeuls, Village des Dopeuls, Baie de Cania)\nAltéré  (Cloaque d'Amakna)\nAltéré  (Orée de la forêt des Abraknydes)\nAltéré  (Champs de Cania)\nAltéré  (Routes Rocailleuses)\nAltéré  (Bois des Arak-haï, Forêt Sombre)\nAltéré  (Canaux méphitiques, Entrailles de Brâkmar)",
+      "actif": "Aborigel, Marsupaf, Mégache",
+      "passif": ""
+    },
+    {
+      "id": 26542,
+      "numero": 50,
+      "nom": "Koalaron",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Koalaron: 1 * Hormone Koalïque, 3 * Mutagène admirable, 1 * Koalache, 2 * Faux Visage de Choudini, 2 * Soie Baveuse",
+      "actif": "Koalarme, Marsupioche, Eukalumet",
+      "passif": ""
+    },
+    {
+      "id": 26543,
+      "numero": 51,
+      "nom": "Serpierre",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plage de Corail)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)",
+      "actif": "Monolic, Fulguroc, Ouroboroc",
+      "passif": ""
+    },
+    {
+      "id": 26544,
+      "numero": 52,
+      "nom": "Nocturpide",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Île de la Cawotte)\nAltéré  (Îlot de Waldo, Îlot des Tombeaux, Îlot de la Couronne)\nAltéré  ()\nAltéré  (Galeries abandonnées, Laboratoires abandonnés)",
+      "actif": "Noctantation, Éclipserre, Crépuscure",
+      "passif": ""
+    },
+    {
+      "id": 26545,
+      "numero": 53,
+      "nom": "Darsenik",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plaine des Porkass)\nAltéré  (Plage de la Tortue)\nAltéré  (Cloaque d'Amakna)\nAltéré  (Massif de Cania, Lac de Cania)\nAltéré  (Pics de Cania)\nAltéré  (Forêt des Masques)\nAltéré  (Chemin du Crâne)\nAltéré  (Jungle Interdite)\nAltéré  (Canaux méphitiques, Entrailles de Brâkmar)",
+      "actif": "Pesticide, Toxicité, Corrognon",
+      "passif": ""
+    },
+    {
+      "id": 26546,
+      "numero": 54,
+      "nom": "Mycostaud",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Désolation de Sidimote)\nAltéré  (Presqu'île des Dragoeufs)\nAltéré  (Mine des Dopeuls, Village des Dopeuls, Baie de Cania)\nAltéré  (Plaine des Porkass)\nAltéré  (Champs de Cania)\nAltéré  (Routes Rocailleuses)\nAltéré  (Massif de Cania, Lac de Cania)\nAltéré  (Pics de Cania)\nAltéré  (Route des Roulottes)\nAltéré  (Hauts des Hurlements)\nAltéré  (Village des Dragoeufs, Souterrains des Dragoeufs)\nAltéré  (Sanctuaire des Dragoeufs)",
+      "actif": "Bouclispore, Zygomycète, Fusariose",
+      "passif": ""
+    },
+    {
+      "id": 26547,
+      "numero": 55,
+      "nom": "Mycoriace",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Mycoriace: 1 * Hormone Corbaïque, 4 * Mutagène mémorable, 1 * Mycostaud, 2 * Crinière de Rat Blanc, 2 * Sourcil du Rasboul majeur, 2 * Bourgeon explosif de Damadrya",
+      "actif": "Pulvéspore, Zygomycèpe, Saprophyte",
+      "passif": ""
+    },
+    {
+      "id": 26548,
+      "numero": 56,
+      "nom": "Sourituel",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cloaque d'Amakna)\nAltéré  (Canaux méphitiques, Entrailles de Brâkmar)",
+      "actif": "Écholérat, Vaudouceur, Remoustache",
+      "passif": ""
+    },
+    {
+      "id": 26549,
+      "numero": 57,
+      "nom": "Grifouine",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Cloaque d'Amakna)\nAltéré  (Marécages nauséabonds)\nAltéré  (Île de la Cawotte)\nAltéré  (Marécages sans fond, Territoire des Dragodindes Sauvages)\nAltéré  (Forêt de Kaliptus, Marécages d'Amakna)\nAltéré  (Lacs enchantés, Canyon sauvage)\nAltéré  (Antre du Koulosse)\nAltéré  (Îlot de Waldo, Îlot des Tombeaux, Îlot de la Couronne)\nAltéré  ()\nAltéré  (Galeries abandonnées, Laboratoires abandonnés)\nAltéré  (Canaux méphitiques, Entrailles de Brâkmar)",
+      "actif": "Furetage, Grifouinage, Griféroce",
+      "passif": ""
+    },
+    {
+      "id": 26550,
+      "numero": 58,
+      "nom": "Polichimère",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Presqu'île des Dragoeufs)\nAltéré  (Village des Dragoeufs, Souterrains des Dragoeufs)\nAltéré  (Sanctuaire des Dragoeufs)",
+      "actif": "Polymorphée, Chimérage, Élucubration",
+      "passif": ""
+    },
+    {
+      "id": 26551,
+      "numero": 59,
+      "nom": "Marmortier",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Dunes des ossements)\nAltéré  (Futaie enneigée)\nAltéré  (Plaine des Porkass)\nAltéré  (Désolation de Sidimote)\nAltéré  (Massif de Cania, Lac de Cania)\nAltéré  (Pics de Cania)\nAltéré  (Route des Roulottes)\nAltéré  (Hauts des Hurlements)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Calibre, Momignard, Artillage",
+      "passif": ""
+    },
+    {
+      "id": 26552,
+      "numero": 60,
+      "nom": "Bazookaïd",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Bazookaïd: 1 * Hormone Corbaïque, 4 * Mutagène mémorable, 1 * Marmortier, 2 * Crinière de Rat Noir, 2 * Plume du Maître Corbac, 2 * Glande du Pounicheur",
+      "actif": "Bazoocrack, Momichon, Bazookador",
+      "passif": ""
+    },
+    {
+      "id": 26553,
+      "numero": 61,
+      "nom": "Poupéluche",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Désolation de Sidimote)\nAltéré  (Route des Roulottes)\nAltéré  (Hauts des Hurlements)",
+      "actif": "Ventriloquie, Doudouche, Fanfreluche",
+      "passif": ""
+    },
+    {
+      "id": 26554,
+      "numero": 62,
+      "nom": "Momarto",
+      "rarity": "",
+      "obtention": "Reward",
+      "value": "error",
+      "actif": "Maillet, Martelage, Enclume",
+      "passif": ""
+    },
+    {
+      "id": 26555,
+      "numero": 63,
+      "nom": "Capuchef",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Désolation de Sidimote)\nAltéré  (Presqu'île des Dragoeufs)\nAltéré  (Mine des Dopeuls, Village des Dopeuls, Baie de Cania)\nAltéré  (Marécages nauséabonds)\nAltéré  (Champs de Cania)\nAltéré  (Routes Rocailleuses)\nAltéré  (Marécages sans fond, Territoire des Dragodindes Sauvages)\nAltéré  (Forêt de Kaliptus, Marécages d'Amakna)\nAltéré  (Lacs enchantés, Canyon sauvage)\nAltéré  (Antre du Koulosse)\nAltéré  (Route des Roulottes)\nAltéré  (Hauts des Hurlements)\nAltéré  (Village des Dragoeufs, Souterrains des Dragoeufs)\nAltéré  (Sanctuaire des Dragoeufs)",
+      "actif": "Capuchon, Impair, Couvre-chef",
+      "passif": ""
+    },
+    {
+      "id": 26556,
+      "numero": 64,
+      "nom": "Scampieuvre",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Port de givre, La Bourgade)\nAltéré  (Plage de Corail)\nAltéré  (Presqu'île des Dragoeufs)\nAltéré  (Île de la Cawotte)\nAltéré  (Village des Dragoeufs, Souterrains des Dragoeufs)\nAltéré  (Sanctuaire des Dragoeufs)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Îlot de Waldo, Îlot des Tombeaux, Îlot de la Couronne)\nAltéré  ()\nAltéré  (Galeries abandonnées, Laboratoires abandonnés)",
+      "actif": "Octoplouf, Tractacule, Ventouse",
+      "passif": ""
+    },
+    {
+      "id": 26557,
+      "numero": 65,
+      "nom": "Vampieuvre",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Vampieuvre: 1 * Hormone Ratïque, 4 * Mutagène mémorable, 1 * Scampieuvre, 2 * Laine du Royalmouth, 2 * Laine du Minotoror, 2 * Feuille de Blop Multicolore Royal",
+      "actif": "Vampouze, Octopode, Calamange",
+      "passif": ""
+    },
+    {
+      "id": 26558,
+      "numero": 66,
+      "nom": "Galibogue",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Mine des Dopeuls, Village des Dopeuls, Baie de Cania)\nAltéré  (Désolation de Sidimote)\nAltéré  (Presqu'île des Dragoeufs)\nAltéré  (Plage de la Tortue)\nAltéré  (Champs de Cania)\nAltéré  (Routes Rocailleuses)\nAltéré  (Route des Roulottes)\nAltéré  (Hauts des Hurlements)\nAltéré  (Village des Dragoeufs, Souterrains des Dragoeufs)\nAltéré  (Sanctuaire des Dragoeufs)\nAltéré  (Forêt des Masques)\nAltéré  (Chemin du Crâne)\nAltéré  (Jungle Interdite)",
+      "actif": "Manigance, Brindille, Galipette",
+      "passif": ""
+    },
+    {
+      "id": 26559,
+      "numero": 67,
+      "nom": "Faucombustion",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Dunes des ossements)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)",
+      "actif": "Tempêtincelle, Incandéchire, Flambrille",
+      "passif": ""
+    },
+    {
+      "id": 26560,
+      "numero": 68,
+      "nom": "Sirokoko",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Île de la Cawotte)\nAltéré  (Dunes des ossements)\nAltéré  (Orée de la forêt des Abraknydes)\nAltéré  (Plage de la Tortue)\nAltéré  (Bois des Arak-haï, Forêt Sombre)\nAltéré  (Forêt des Masques)\nAltéré  (Chemin du Crâne)\nAltéré  (Jungle Interdite)\nAltéré  (Îlot de Waldo, Îlot des Tombeaux, Îlot de la Couronne)\nAltéré  ()\nAltéré  (Galeries abandonnées, Laboratoires abandonnés)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)",
+      "actif": "Pinacolasso, Cocorrection, Cocopinage",
+      "passif": ""
+    },
+    {
+      "id": 26561,
+      "numero": 69,
+      "nom": "Escarpince",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Creuset des Fortunés)\nAltéré  (Île de Kartonpath)\nAltéré  (Futaie enneigée)\nAltéré  (Île de la Cawotte)\nAltéré  (Îlot de Waldo, Îlot des Tombeaux, Îlot de la Couronne)\nAltéré  ()\nAltéré  (Galeries abandonnées, Laboratoires abandonnés)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)\nAltéré  (Île du Minotoror)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Abréviation, Pince'Mousse, Pincement",
+      "passif": ""
+    },
+    {
+      "id": 26562,
+      "numero": 70,
+      "nom": "Mascarpince",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Mascarpince: 1 * Hormone Ratïque, 4 * Mutagène mémorable, 1 * Escarpince, 2 * Peau de Crocabulia, 2 * Plume de Tofu Royal, 2 * Pixel de Fraktale",
+      "actif": "Brachyoure, Crustacier, Surimix",
+      "passif": ""
+    },
+    {
+      "id": 26563,
+      "numero": 71,
+      "nom": "Papalmier",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Marécages nauséabonds)\nAltéré  (Orée de la forêt des Abraknydes)\nAltéré  (Plage de Corail)\nAltéré  (Dunes des ossements)\nAltéré  (Marécages sans fond, Territoire des Dragodindes Sauvages)\nAltéré  (Forêt de Kaliptus, Marécages d'Amakna)\nAltéré  (Lacs enchantés, Canyon sauvage)\nAltéré  (Antre du Koulosse)\nAltéré  (Bois des Arak-haï, Forêt Sombre)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)",
+      "actif": "Palmiste, Corozo, Électronc",
+      "passif": ""
+    },
+    {
+      "id": 26564,
+      "numero": 72,
+      "nom": "Raievolté",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Port de givre, La Bourgade)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)",
+      "actif": "Électrode, Décharge, Fracark",
+      "passif": ""
+    },
+    {
+      "id": 26565,
+      "numero": 73,
+      "nom": "Éculbute",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Port de givre, La Bourgade)\nAltéré  (Dunes des ossements)\nAltéré  (Désolation de Sidimote)\nAltéré  (Plage de la Tortue)\nAltéré  (Route des Roulottes)\nAltéré  (Hauts des Hurlements)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Forêt des Masques)\nAltéré  (Chemin du Crâne)\nAltéré  (Jungle Interdite)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)",
+      "actif": "Panache, Sangland, Skrat",
+      "passif": ""
+    },
+    {
+      "id": 26566,
+      "numero": 74,
+      "nom": "Dolmenu",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Vallée de la Morh'Kitu, Cimetière primitif)\nAltéré  (Pénates du Corbac)\nAltéré  (Plantala)\nAltéré  (Pierres de l'élévation)\nAltéré  (Île de Kartonpath)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)\nAltéré  (Île du Minotoror)",
+      "actif": "Sédiment, Syénite, Gravier",
+      "passif": ""
+    },
+    {
+      "id": 26567,
+      "numero": 75,
+      "nom": "Dolmenir",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Dolmenir: 1 * Hormone Zothïque, 4 * Mutagène mémorable, 1 * Dolmenu, 2 * Paire de boules de Haute Truche, 2 * Racine du Chêne Mou, 2 * Cœur du Capitaine Ekarlatte, 2 * Étoffe Mystérieuse",
+      "actif": "Sédimort, Lignite, Gabbro",
+      "passif": ""
+    },
+    {
+      "id": 26568,
+      "numero": 76,
+      "nom": "Étoilusk",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plaine des Porkass)\nAltéré  (Orée de la forêt des Abraknydes)\nAltéré  (Port de givre, La Bourgade)\nAltéré  (Futaie enneigée)\nAltéré  (Massif de Cania, Lac de Cania)\nAltéré  (Pics de Cania)\nAltéré  (Bois des Arak-haï, Forêt Sombre)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Geyser, Astérie, Étoilettage",
+      "passif": ""
+    },
+    {
+      "id": 26569,
+      "numero": 77,
+      "nom": "Forbanfor",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Creuset des Fortunés)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)",
+      "actif": "Bajarre, Cruche, Porcelaide",
+      "passif": ""
+    },
+    {
+      "id": 26570,
+      "numero": 78,
+      "nom": "Moustonique",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Marécages nauséabonds)\nAltéré  (Creuset des Fortunés)\nAltéré  (Île de Kartonpath)\nAltéré  (Presqu'île des Dragoeufs)\nAltéré  (Marécages sans fond, Territoire des Dragodindes Sauvages)\nAltéré  (Forêt de Kaliptus, Marécages d'Amakna)\nAltéré  (Lacs enchantés, Canyon sauvage)\nAltéré  (Antre du Koulosse)\nAltéré  (Village des Dragoeufs, Souterrains des Dragoeufs)\nAltéré  (Sanctuaire des Dragoeufs)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)\nAltéré  (Île du Minotoror)",
+      "actif": "Grattaque, Virevol, Survaul",
+      "passif": ""
+    },
+    {
+      "id": 26571,
+      "numero": 79,
+      "nom": "Rompiaf",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Chemins d'hier)\nAltéré  (Vallée de la Morh'Kitu, Cimetière primitif)\nAltéré  (Plage de Corail)\nAltéré  (Île de Kartonpath)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)\nAltéré  (Île du Minotoror)",
+      "actif": "Gazouillis, Jacassage, Cacatoès",
+      "passif": ""
+    },
+    {
+      "id": 26572,
+      "numero": 80,
+      "nom": "Crépiaf",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Crépiaf: 1 * Hormone Zothïque, 4 * Mutagène mémorable, 1 * Rompiaf, 2 * Testicules du Tanukouï San, 2 * Écorce du Chêne Mou, 2 * Koinkoin de bain de Nagate, 75 * Rose des sables",
+      "actif": "Gazouillement, Bécassage, Cacato'Hess",
+      "passif": ""
+    },
+    {
+      "id": 26573,
+      "numero": 81,
+      "nom": "Kafarmure",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Désolation de Sidimote)\nAltéré  (Plage de la Tortue)\nAltéré  (Creuset des Fortunés)\nAltéré  (Île de Kartonpath)\nAltéré  (Route des Roulottes)\nAltéré  (Hauts des Hurlements)\nAltéré  (Forêt des Masques)\nAltéré  (Chemin du Crâne)\nAltéré  (Jungle Interdite)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)\nAltéré  (Île du Minotoror)",
+      "actif": "Cafardage, Cancrelat, Carapatrouille",
+      "passif": ""
+    },
+    {
+      "id": 26574,
+      "numero": 82,
+      "nom": "Incramé",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plantala)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)",
+      "actif": "Dématérialisation, Conscience, Animisme",
+      "passif": ""
+    },
+    {
+      "id": 26575,
+      "numero": 83,
+      "nom": "Infernuit",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Pierres de l'élévation)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)",
+      "actif": "Impétuosité, Pandémonie, Damnation",
+      "passif": ""
+    },
+    {
+      "id": 26576,
+      "numero": 84,
+      "nom": "Crustalide",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Ruelles des Eaux-Suaires)\nAltéré  (Futaie enneigée)\nAltéré  (Port de givre, La Bourgade)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Bisque, Isopode, Métamère",
+      "passif": ""
+    },
+    {
+      "id": 26577,
+      "numero": 85,
+      "nom": "Crustorgnole",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Crustorgnole: 1 * Hormone Tanuïque, 4 * Mutagène mémorable, 1 * Crustalide, 1 * Calice du Tynril, 1 * Plume du Mansot Royal, 1 * Écharpe de Hanshi, 2 * Trame Dimensionnelle",
+      "actif": "Bombisque, Isopote, Ecdysone",
+      "passif": ""
+    },
+    {
+      "id": 26578,
+      "numero": 86,
+      "nom": "Alphané",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Vallée de la Morh'Kitu, Cimetière primitif)\nAltéré  (Pénates du Corbac)\nAltéré  (Plantala)\nAltéré  (Pierres de l'élévation)\nAltéré  (Île de Kartonpath)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)\nAltéré  (Île du Minotoror)",
+      "actif": "Floraison, Étamissile, Pollinisation",
+      "passif": ""
+    },
+    {
+      "id": 26579,
+      "numero": 87,
+      "nom": "Attrapace",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Pénates du Corbac)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)",
+      "actif": "Empoigne, Busarge, Gerfauche",
+      "passif": ""
+    },
+    {
+      "id": 26580,
+      "numero": 88,
+      "nom": "Parazig",
+      "rarity": "",
+      "obtention": "Reward",
+      "value": "error",
+      "actif": "Nématode, Tique, Symbiote",
+      "passif": ""
+    },
+    {
+      "id": 26581,
+      "numero": 89,
+      "nom": "Assouplié",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Ruelles des Eaux-Suaires)\nAltéré  (Plantala)\nAltéré  (Dunes des ossements)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)",
+      "actif": "Origardien, Feuillet, Paperasse",
+      "passif": ""
+    },
+    {
+      "id": 26582,
+      "numero": 90,
+      "nom": "Décréplié",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Décréplié: 1 * Hormone Tanuïque, 4 * Mutagène mémorable, 1 * Assouplié, 1 * Pistil du Tynril, 1 * Poil de Ben le Ripate, 1 * Piques à cheveux de Shihan, 100 * Rose des sables",
+      "actif": "Origarde, Effeuillage, Pliage",
+      "passif": ""
+    },
+    {
+      "id": 26583,
+      "numero": 91,
+      "nom": "Ephébec",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Vallée de la Morh'Kitu, Cimetière primitif)\nAltéré  (Pierres de l'élévation)\nAltéré  (Île de Kartonpath)\nAltéré  (Pénates du Corbac)\nAltéré  (Plantala)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)\nAltéré  (Île du Minotoror)",
+      "actif": "Nichée, Paria, Huppe",
+      "passif": ""
+    },
+    {
+      "id": 26584,
+      "numero": 92,
+      "nom": "Leveinère",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Vallée de la Morh'Kitu, Cimetière primitif)",
+      "actif": "Échaufourage, Zarafage, Brûlevague",
+      "passif": ""
+    },
+    {
+      "id": 26585,
+      "numero": 93,
+      "nom": "Urtyclope",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Chemins d'hier)\nAltéré  (Pénates du Corbac)\nAltéré  (Vallée de la Morh'Kitu, Cimetière primitif)\nAltéré  (Île de Kartonpath)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)\nAltéré  (Île du Minotoror)",
+      "actif": "Histamine, Eczémasse, Échauboulure",
+      "passif": ""
+    },
+    {
+      "id": 26586,
+      "numero": 94,
+      "nom": "Évoki",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plantala)\nAltéré  (Port de givre, La Bourgade)\nAltéré  (Futaie enneigée)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Virevolte, Neutralité, Crapahutage",
+      "passif": ""
+    },
+    {
+      "id": 26587,
+      "numero": 95,
+      "nom": "Brasaki",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Brasaki: 1 * Hormone Firefïque, 5 * Mutagène grandiose, 1 * Évoki, 1 * Fémur de Sphincter Cell, 1 * Défense du Phossile, 1 * Peau de Sphincter Cell, 3 * Trame Dimensionnelle, 10 * Rune Do Feu",
+      "actif": "Virevol'feu, Flamabilité, Braséro",
+      "passif": ""
+    },
+    {
+      "id": 26588,
+      "numero": 96,
+      "nom": "Céléki",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Céléki: 1 * Hormone Firefïque, 5 * Mutagène grandiose, 1 * Évoki, 1 * Fémur de Sphincter Cell, 1 * Défense du Phossile, 1 * Peau de Sphincter Cell, 3 * Trame Dimensionnelle, 10 * Rune Do Air",
+      "actif": "Virevolt'air, Célérité, Céleste",
+      "passif": ""
+    },
+    {
+      "id": 26589,
+      "numero": 97,
+      "nom": "Telluki",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Telluki: 1 * Hormone Firefïque, 5 * Mutagène grandiose, 1 * Évoki, 1 * Fémur de Sphincter Cell, 1 * Défense du Phossile, 1 * Peau de Sphincter Cell, 3 * Trame Dimensionnelle, 10 * Rune Do Terre",
+      "actif": "Virevol'terre, Tellurité, Labour",
+      "passif": ""
+    },
+    {
+      "id": 26590,
+      "numero": 98,
+      "nom": "Nautiki",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Nautiki: 1 * Hormone Firefïque, 5 * Mutagène grandiose, 1 * Évoki, 1 * Fémur de Sphincter Cell, 1 * Défense du Phossile, 1 * Peau de Sphincter Cell, 3 * Trame Dimensionnelle, 10 * Rune Do Eau",
+      "actif": "Virevolt'eau, Humidité, Vapeur",
+      "passif": ""
+    },
+    {
+      "id": 26591,
+      "numero": 99,
+      "nom": "Cactueur",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Vallée de la Morh'Kitu, Cimetière primitif)\nAltéré  (Presqu'île des Dragoeufs)\nAltéré  (Île de la Cawotte)\nAltéré  (Chemins d'hier)\nAltéré  (Village des Dragoeufs, Souterrains des Dragoeufs)\nAltéré  (Sanctuaire des Dragoeufs)\nAltéré  (Îlot de Waldo, Îlot des Tombeaux, Îlot de la Couronne)\nAltéré  ()\nAltéré  (Galeries abandonnées, Laboratoires abandonnés)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)",
+      "actif": "Nindo, Jutsuper, Traquenard",
+      "passif": ""
+    },
+    {
+      "id": 26592,
+      "numero": 100,
+      "nom": "Sakadan",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Ruelles des Eaux-Suaires)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)",
+      "actif": "Vengeancive, Pounching-bol, Détartrage",
+      "passif": ""
+    },
+    {
+      "id": 26593,
+      "numero": 101,
+      "nom": "Bagarlequin",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Ruelles des Eaux-Suaires)\nAltéré  (Pénates du Corbac)\nAltéré  (Plage de Corail)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)",
+      "actif": "Bat les masques, Mélancolarme, Larmoiement",
+      "passif": ""
+    },
+    {
+      "id": 26594,
+      "numero": 102,
+      "nom": "Dracoquille",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Creuset des Fortunés)\nAltéré  (Pierres de l'élévation)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)",
+      "actif": "Craquelage, Dracolique, Dracalcaire",
+      "passif": ""
+    },
+    {
+      "id": 26595,
+      "numero": 103,
+      "nom": "Dracolore",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Dracolore: 1 * Hormone Malterïque, 5 * Mutagène grandiose, 1 * Dracoquille, 1 * Perruque du Kimbo, 1 * Laine du Minotot, 1 * Scorie d'Obsidiantre, 1 * Moustache de Ush, 2 * Tourmaline",
+      "actif": "Craquèlement, Dracolchique, Dracarbonate",
+      "passif": ""
+    },
+    {
+      "id": 26596,
+      "numero": 104,
+      "nom": "Pécorne",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Pénates du Corbac)\nAltéré  (Plage de Corail)\nAltéré  (Dunes des ossements)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)",
+      "actif": "Coquin de sort, Cheptel, Pekno",
+      "passif": ""
+    },
+    {
+      "id": 26597,
+      "numero": 105,
+      "nom": "Tigépine",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Berceau d'Alma)\nAltéré  (Chemins d'hier)\nAltéré  (Ruelles des Eaux-Suaires)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)",
+      "actif": "Guétapique, Épinion, Piquette",
+      "passif": ""
+    },
+    {
+      "id": 26598,
+      "numero": 106,
+      "nom": "Tabalèze",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Berceau d'Alma)\nAltéré  (Pénates du Corbac)\nAltéré  (Futaie enneigée)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Pentaloche, Végétacle, Graine Vampirique",
+      "passif": ""
+    },
+    {
+      "id": 26599,
+      "numero": 107,
+      "nom": "Ursicaire",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Berceau d'Alma)\nAltéré  (Creuset des Fortunés)\nAltéré  (Plage de Corail)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)",
+      "actif": "Hibernation, Ursin, Apicuillère",
+      "passif": ""
+    },
+    {
+      "id": 26600,
+      "numero": 108,
+      "nom": "Ursinistre",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Ursinistre: 1 * Hormone Malterïque, 5 * Mutagène grandiose, 1 * Ursicaire, 1 * Sphénoïde du Kimbo, 1 * Fémur du Minotot, 1 * Poils de Kanigroula, 1 * Moustache du Shogun Tofugawa, 2 * Tourmaline",
+      "actif": "Hypernation, Ursus, Apicurieux",
+      "passif": ""
+    },
+    {
+      "id": 26601,
+      "numero": 109,
+      "nom": "Myrobolangue",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Chemins d'hier)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)",
+      "actif": "Flagorne, Lingus, Époustouflangue",
+      "passif": ""
+    },
+    {
+      "id": 26602,
+      "numero": 110,
+      "nom": "Javache",
+      "rarity": "",
+      "obtention": "Reward",
+      "value": "error",
+      "actif": "Aliénation, Frénésie, Démence",
+      "passif": "Insanité"
+    },
+    {
+      "id": 26603,
+      "numero": 111,
+      "nom": "Dinosseux",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Berceau d'Alma)\nAltéré  (Plantala)\nAltéré  (Plage de Corail)\nAltéré  (Arche d'Otomaï)\nAltéré  (Tourbière sans fond)\nAltéré  (Plaines herbeuses, Tourbière nauséabonde)\nAltéré  (Village des Zoths, Village de la Canopée)\nAltéré  (Jungle obscure)\nAltéré  (Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)",
+      "actif": "Extinction, Crétacé, Mâchoire",
+      "passif": ""
+    },
+    {
+      "id": 26604,
+      "numero": 112,
+      "nom": "Poisitrouille",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Pénates du Corbac)\nAltéré  (Pierres de l'élévation)\nAltéré  (Futaie enneigée)\nAltéré  (Bois de Litneg)\nAltéré  (Cirque de Cania)\nAltéré  (Landes de Cania)\nAltéré  (Dents de Pierre, Village des Kanigs)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Cécitrouille, Pesticide, Round'eau",
+      "passif": ""
+    },
+    {
+      "id": 26605,
+      "numero": 113,
+      "nom": "Toxitrouille",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Toxitrouille: 1 * Hormone Yokaïque, 5 * Mutagène grandiose, 1 * Poisitrouille, 1 * Laine de Tengu Givrefoux, 1 * Œil du Père Ver, 1 * Cuir de Tengu Givrefoux, 1 * Étoffe Mystérieuse, 3 * Tourmaline",
+      "actif": "Puissitrouille, Biocide, Monsant'eau",
+      "passif": ""
+    },
+    {
+      "id": 26606,
+      "numero": 114,
+      "nom": "Crustank",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Port de givre, La Bourgade)\nAltéré  (Creuset des Fortunés)\nAltéré  (Dunes des ossements)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)",
+      "actif": "Céphalopote, Roulimule, Bisque",
+      "passif": ""
+    },
+    {
+      "id": 26607,
+      "numero": 115,
+      "nom": "Mélomask",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Ruelles des Eaux-Suaires)\nAltéré  (Chemins d'hier)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)",
+      "actif": "Mascarage, Moulage, Farce",
+      "passif": "Tromperie"
+    },
+    {
+      "id": 26608,
+      "numero": 116,
+      "nom": "Lycanin",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Port de givre, La Bourgade)\nAltéré  (Berceau d'Alma)\nAltéré  (Plantala)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)",
+      "actif": "Exode, Sauvagerie, Vacarme",
+      "passif": ""
+    },
+    {
+      "id": 26609,
+      "numero": 117,
+      "nom": "Gouledogue",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Creuset des Fortunés)\nAltéré  (Pierres de l'élévation)\nAltéré  (Carrière Aurifère)\nAltéré  (Retraite des Éternels, Fort Thune)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)",
+      "actif": "Clebz, Limier, Grognement",
+      "passif": ""
+    },
+    {
+      "id": 26610,
+      "numero": 118,
+      "nom": "Cagouldogue",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Cagouldogue: 1 * Hormone Yokaïque, 5 * Mutagène grandiose, 1 * Gouledogue, 1 * Cuir de Tengu Givrefoux, 1 * Corne de XLII, 1 * Braises bleutées, 5 * Trame Dimensionnelle, 3 * Tourmaline",
+      "actif": "Klebz, Fin Limier, Aboiement",
+      "passif": ""
+    },
+    {
+      "id": 26611,
+      "numero": 119,
+      "nom": "Vénéon",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Ruelles des Eaux-Suaires)\nAltéré  (Futaie enneigée)\nAltéré  (Dunes des ossements)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Nocifflet, Collagène, Phosphossoyeur",
+      "passif": ""
+    },
+    {
+      "id": 26612,
+      "numero": 120,
+      "nom": "Lucifrousse",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Gisgoul, Domaine des Fungus, Caverne des Fungus)\nAltéré  (Terres Désacrées)",
+      "actif": "Incandélice, Purgatoire, Belzébute",
+      "passif": ""
+    },
+    {
+      "id": 26613,
+      "numero": 121,
+      "nom": "Poilongé",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Gisgoul, Domaine des Fungus, Caverne des Fungus)\nAltéré  (Nimotopia, Dimension Obscure)\nAltéré  (Chemins d'hier)\nAltéré  (Pierres de l'élévation)\nAltéré  (Terres Désacrées)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)",
+      "actif": "Dandinage, Sveltesse, Filiforce",
+      "passif": ""
+    },
+    {
+      "id": 26614,
+      "numero": 122,
+      "nom": "Mixomascotte",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Gisgoul, Domaine des Fungus, Caverne des Fungus)\nAltéré  (Berceau d'Alma)\nAltéré  (Terres Désacrées)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)",
+      "actif": "Garenne, Gibelotte, Myxome",
+      "passif": "Lagomorphe"
+    },
+    {
+      "id": 26615,
+      "numero": 123,
+      "nom": "Mixomastoc",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Mixomastoc: 1 * Hormone Verïque, 5 * Mutagène grandiose, 1 * Mixomascotte, 1 * Patte de Korriandre, 1 * Peau du Bworker, 1 * Épine d'Ougah, 6 * Étoffe Mystérieuse, 4 * Tourmaline",
+      "actif": "Garaide, Gibelatte, Myx'homme",
+      "passif": "Lagomort"
+    },
+    {
+      "id": 26616,
+      "numero": 124,
+      "nom": "Safarieur",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Gisgoul, Domaine des Fungus, Caverne des Fungus)\nAltéré  (Nimotopia, Dimension Obscure)\nAltéré  (Pierres de l'élévation)\nAltéré  (Futaie enneigée)\nAltéré  (Terres Désacrées)\nAltéré  (Lande Poilue)\nAltéré  (Temple de Kerubim)\nAltéré  (Galeries d'Ereboria)\nAltéré  (Ephedrya)",
+      "actif": "Coussinets, Hurlascar, Charognon",
+      "passif": ""
+    },
+    {
+      "id": 26617,
+      "numero": 125,
+      "nom": "Krokogneur",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Plantala)\nAltéré  (Chemins d'hier)\nAltéré  (Dunes des ossements)\nAltéré  (Territoire Cacterre)\nAltéré  (Gorge des Vents Hurlants, Cité Oubliée)\nAltéré  (Pyramide Maudite)\nAltéré  (Terrdala, Akwadala)\nAltéré  (Aerdala, Feudala)\nAltéré  (Cimetière de Grobe)\nAltéré  (Mont des Tombeaux)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)",
+      "actif": "Crocoquille, L'Accoste, Crocolère",
+      "passif": ""
+    },
+    {
+      "id": 26618,
+      "numero": 126,
+      "nom": "Hurlepoil",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Nimotopia, Dimension Obscure)\nAltéré  (Gisgoul, Domaine des Fungus, Caverne des Fungus)\nAltéré  (Ruelles des Eaux-Suaires)\nAltéré  (Port de givre, La Bourgade)\nAltéré  (Terres Désacrées)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Catacombres)\nAltéré  (Quartier des Conquérants, Hauts Ténébreux)",
+      "actif": "Bouchée, Molosse, Aboiement",
+      "passif": ""
+    },
+    {
+      "id": 26619,
+      "numero": 127,
+      "nom": "Enflaron",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Marches Magmatiques, Crocuzko)\nAltéré  (Nimotopia, Dimension Obscure)",
+      "actif": "Brasier, Torche, Combustible",
+      "passif": "Fragmentation"
+    },
+    {
+      "id": 26620,
+      "numero": 128,
+      "nom": "Bombarge",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Bombarge: 1 * Hormone Verïque, 5 * Mutagène grandiose, 1 * Enflaron, 1 * Œil de Korriandre, 1 * Ongle du Bworker, 1 * Œil d'Ougah, 6 * Trame Dimensionnelle, 4 * Tourmaline",
+      "actif": "Embrasement, Bastorche, Combustir",
+      "passif": "Défragmentation"
+    },
+    {
+      "id": 26621,
+      "numero": 129,
+      "nom": "Bougrimace",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Nimotopia, Dimension Obscure)",
+      "actif": "Simagrée, Mimique, Minauderie",
+      "passif": ""
+    },
+    {
+      "id": 26622,
+      "numero": 130,
+      "nom": "Tentarpon",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Faille des Trithons, Tréfonds des Trithons, Plateau de R'lyugluglu, Fosse de R'lyugluglu, Salles des Embruns, Abîme de R'lyugluglu, Salles des Courants, Salles des Abîmes, Ville submergée, Ancienne Sufokia, Vestiges engloutis, Domaine des Trithons)\nAltéré  (Port des Ravageurs, Pandamonium, Royaume d'encre, Royaume de papier)",
+      "actif": "Tentécume, Tentatane, Tentaxe",
+      "passif": ""
+    },
+    {
+      "id": 26623,
+      "numero": 131,
+      "nom": "Sapristigre",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions, Tour de la Clepsydre, Caserne du Jour sans fin)\nAltéré  (Royaume Corrompu, Galère de Servitude, Blessures de Guerre, Désert de Misère)\nAltéré  (Nimotopia, Dimension Obscure)\nAltéré  (Marches Magmatiques, Crocuzko)\nAltéré  (Chemins d'hier)\nAltéré  (Port de givre, La Bourgade)\nAltéré  (Champs de glace)\nAltéré  (Lac gelé, Forêt des pins perdus)\nAltéré  (Plaine de Sakaï, Forêt enneigée)\nAltéré  (Jour présent)\nAltéré  (Lendemains incertains)",
+      "actif": "Fourrure, Hurlement, Muselage",
+      "passif": ""
+    },
+    {
+      "id": 26624,
+      "numero": 132,
+      "nom": "Crapupille",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions, Tour de la Clepsydre, Caserne du Jour sans fin)\nAltéré  (Royaume Corrompu, Galère de Servitude, Blessures de Guerre, Désert de Misère)",
+      "actif": "Paralysion, Pupille, Macula",
+      "passif": "Kératocopain"
+    },
+    {
+      "id": 26625,
+      "numero": 133,
+      "nom": "Trapupille",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Trapupille: 1 * Hormone Sakaïque, 6 * Mutagène spectaculaire, 1 * Crapupille, 1 * Corne d'Ombre, 1 * Cuir de Fuji Givrefoux, 1 * Fragment gelé, 1 * Queue de Glourséleste, 5 * Tourmaline",
+      "actif": "Paralyris, Ocelle, Mydriase",
+      "passif": "Kératocolosse"
+    },
+    {
+      "id": 26626,
+      "numero": 134,
+      "nom": "Nenufarouche",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Gisgoul, Domaine des Fungus, Caverne des Fungus)\nAltéré  (Berceau d'Alma)\nAltéré  (Nimotopia, Dimension Obscure)\nAltéré  (Terres Désacrées)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)",
+      "actif": "Nymphéa, Nénuée, Nénuisance",
+      "passif": "Rotapousse"
+    },
+    {
+      "id": 26627,
+      "numero": 135,
+      "nom": "Hydragon",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Faille des Trithons, Tréfonds des Trithons, Plateau de R'lyugluglu, Fosse de R'lyugluglu, Salles des Embruns, Abîme de R'lyugluglu, Salles des Courants, Salles des Abîmes, Ville submergée, Ancienne Sufokia, Vestiges engloutis, Domaine des Trithons)\nAltéré  (Nimotopia, Dimension Obscure)",
+      "actif": "Hydrassemble, Hydravage, Hydrage",
+      "passif": "Hydrazzia"
+    },
+    {
+      "id": 26628,
+      "numero": 136,
+      "nom": "Cyclopoing",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions, Tour de la Clepsydre, Caserne du Jour sans fin)\nAltéré  (Royaume Corrompu, Galère de Servitude, Blessures de Guerre, Désert de Misère)\nAltéré  (Faille des Trithons, Tréfonds des Trithons, Plateau de R'lyugluglu, Fosse de R'lyugluglu, Salles des Embruns, Abîme de R'lyugluglu, Salles des Courants, Salles des Abîmes, Ville submergée, Ancienne Sufokia, Vestiges engloutis, Domaine des Trithons)\nAltéré  (Marches Magmatiques, Crocuzko)\nAltéré  (Port des Ravageurs, Pandamonium, Royaume d'encre, Royaume de papier)",
+      "actif": "Coupe-gorge, Mégapoing, Cyborgne",
+      "passif": ""
+    },
+    {
+      "id": 26629,
+      "numero": 137,
+      "nom": "Mutapin",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Marches Magmatiques, Crocuzko)\nAltéré  (Port des Ravageurs, Pandamonium, Royaume d'encre, Royaume de papier)",
+      "actif": "Nucléotide, Enzyme, Génome",
+      "passif": "Mutation"
+    },
+    {
+      "id": 26630,
+      "numero": 138,
+      "nom": "Ultrapin",
+      "rarity": "",
+      "obtention": "Craft",
+      "value": "Certificat d'adoption de Ultrapin: 1 * Hormone Chassouillïque, 6 * Mutagène spectaculaire, 1 * Mutapin, 1 * Dé du Chalœil, 1 * Poil de Meno, 1 * Écaille de Torkélonia, 1 * Scapula du Comte Harebourg, 6 * Tourmaline",
+      "actif": "Nucléotique, Mutenzyme, Génorme",
+      "passif": "Mutation"
+    },
+    {
+      "id": 26631,
+      "numero": 139,
+      "nom": "Kradotruche",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Royaume Corrompu, Galère de Servitude, Blessures de Guerre, Désert de Misère)\nAltéré  (Faille des Trithons, Tréfonds des Trithons, Plateau de R'lyugluglu, Fosse de R'lyugluglu, Salles des Embruns, Abîme de R'lyugluglu, Salles des Courants, Salles des Abîmes, Ville submergée, Ancienne Sufokia, Vestiges engloutis, Domaine des Trithons)\nAltéré  (Marches Magmatiques, Crocuzko)\nAltéré  (Port des Ravageurs, Pandamonium, Royaume d'encre, Royaume de papier)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions, Tour de la Clepsydre, Caserne du Jour sans fin)\nAltéré  (Gisgoul, Domaine des Fungus, Caverne des Fungus)\nAltéré  (Terres Désacrées)",
+      "actif": "Fiente, Couvée, Guano",
+      "passif": ""
+    },
+    {
+      "id": 26632,
+      "numero": 140,
+      "nom": "Calvizir",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions, Tour de la Clepsydre, Caserne du Jour sans fin)\nAltéré  (Faille des Trithons, Tréfonds des Trithons, Plateau de R'lyugluglu, Fosse de R'lyugluglu, Salles des Embruns, Abîme de R'lyugluglu, Salles des Courants, Salles des Abîmes, Ville submergée, Ancienne Sufokia, Vestiges engloutis, Domaine des Trithons)\nAltéré  (Port des Ravageurs, Pandamonium, Royaume d'encre, Royaume de papier)\nAltéré  (Royaume Corrompu, Galère de Servitude, Blessures de Guerre, Désert de Misère)",
+      "actif": "Chauve qui peut, Atrichie, Viziraclée",
+      "passif": ""
+    },
+    {
+      "id": 26633,
+      "numero": 141,
+      "nom": "Valdingume",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions, Tour de la Clepsydre, Caserne du Jour sans fin)\nAltéré  (Port des Ravageurs, Pandamonium, Royaume d'encre, Royaume de papier)",
+      "actif": "Primeur, Wotka, Bond",
+      "passif": "Cawotène"
+    },
+    {
+      "id": 26634,
+      "numero": 142,
+      "nom": "Cabrioche",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Royaume Corrompu, Galère de Servitude, Blessures de Guerre, Désert de Misère)\nAltéré  (Marches Magmatiques, Crocuzko)\nAltéré  (Faille des Trithons, Tréfonds des Trithons, Plateau de R'lyugluglu, Fosse de R'lyugluglu, Salles des Embruns, Abîme de R'lyugluglu, Salles des Courants, Salles des Abîmes, Ville submergée, Ancienne Sufokia, Vestiges engloutis, Domaine des Trithons)",
+      "actif": "Chocolattire, Frangipaf, Praline",
+      "passif": ""
+    },
+    {
+      "id": 26635,
+      "numero": 143,
+      "nom": "Élémort",
+      "rarity": "",
+      "obtention": "Reward",
+      "value": "error",
+      "actif": "Boson, Particule, Ondulation",
+      "passif": "Quark"
+    },
+    {
+      "id": 26636,
+      "numero": 144,
+      "nom": "Démonange",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Île de Kartonpath)\nAltéré  (Île du Minotoror)",
+      "actif": "Miséricorde, Rédemption, Sérafaim",
+      "passif": ""
+    },
+    {
+      "id": 26637,
+      "numero": 145,
+      "nom": "Angémon",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Faille des Trithons, Tréfonds des Trithons, Plateau de R'lyugluglu, Fosse de R'lyugluglu, Salles des Embruns, Abîme de R'lyugluglu, Salles des Courants, Salles des Abîmes, Ville submergée, Ancienne Sufokia, Vestiges engloutis, Domaine des Trithons)",
+      "actif": "Péché, Paradystopie, Doxologie",
+      "passif": ""
+    },
+    {
+      "id": 26638,
+      "numero": 146,
+      "nom": "Cybourgs",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Berceau d'Alma)\nAltéré  (Larmes d'Ouronigride)\nAltéré  (Village enseveli, Crevasse Perge, Cavernes des Givrefoux)\nAltéré  (Forêt pétrifiée)\nAltéré  (Crocs de verre, Ruche des Gloursons, Mont Torrideau)\nAltéré  (Épaves Silencieuses, Roc des Salbatroces, Royaume des Martegel)",
+      "actif": "Androvore, Biomécanisme, Cybernétique",
+      "passif": ""
+    },
+    {
+      "id": 26639,
+      "numero": 147,
+      "nom": "Puputois",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Port des Ravageurs, Pandamonium, Royaume d'encre, Royaume de papier)",
+      "actif": "Schmoute, Schlingue, Bouclifouette",
+      "passif": ""
+    },
+    {
+      "id": 26640,
+      "numero": 148,
+      "nom": "Alligaveugle",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions, Tour de la Clepsydre, Caserne du Jour sans fin)",
+      "actif": "Gavial, Écholoc, Carnevil",
+      "passif": ""
+    },
+    {
+      "id": 26641,
+      "numero": 149,
+      "nom": "Malotrunes",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Marches Magmatiques, Crocuzko)",
+      "actif": "Huron, Impoglyphe, Gougnaf",
+      "passif": ""
+    },
+    {
+      "id": 26642,
+      "numero": 150,
+      "nom": "Reptilangue",
+      "rarity": "",
+      "obtention": "Drop",
+      "value": "Altéré  (Royaume Corrompu, Galère de Servitude, Blessures de Guerre, Désert de Misère)",
+      "actif": "Aspique, Cobrage, Viperfide",
+      "passif": ""
+    }
+   ]
