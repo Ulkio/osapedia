@@ -26,13 +26,13 @@ const Altere = ({ altere, sorts, nomSorts }: AltereProps) => {
       <Dialog.Root>
         <Dialog.Trigger asChild>
           <div className="flex flex-col items-center justify-between py-4 rounded-sm w-60 h-72 bg-secondary-blue">
-            {/* <Image
+            <Image
               src={`/img/alteres/${imgName}.png`}
               width={100}
               height={100}
               alt={altere?.nom}
               className="object-scale-down"
-            /> */}
+            />
             <p>{altere?.nom}</p>
             <div className="flex flex-wrap self-start gap-2 px-4 text-sm">
               {nomSorts?.map((sort: string, index: number) => {

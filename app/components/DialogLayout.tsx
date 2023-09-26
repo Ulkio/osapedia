@@ -24,11 +24,11 @@ const DialogLayout = ({ altere, sorts, detailSorts }: DialogProps) => {
     <Dialog.Portal>
       <Dialog.Overlay className="DialogOverlay" />
       <Dialog.Content className="DialogContent">
-        <div className="flex flex-col w-full items-center justify-center h-full px-40 gap-8">
-          {/* <Image src={`/img/alteres/${imgName}.png`} width={200} height={200} alt={imgName} /> */}
-          <p className="text-2xl">{altere.nom}</p>
-          <p>{altere.rarity}</p>
-          <div className="flex flex-col items-center gap-8 w-full mt-16">
+        <div className="flex flex-col w-full items-center justify-center h-full  gap-4">
+          <Image src={`/img/alteres/${imgName}.png`} width={150} height={150} alt={imgName} />
+          <p className="text-3xl font-bold">{altere.nom}</p>
+          {/* <p>{altere.rarity}</p> */}
+          <div className="flex flex-col items-center gap-8 w-full ">
             {sorts.map((sort: string, index: number) => {
               return (
                 <p key={index} className="p-6 w-1/2  text-md text-center rounded-sm bg-primary-blue">
@@ -37,18 +37,18 @@ const DialogLayout = ({ altere, sorts, detailSorts }: DialogProps) => {
               );
             })}
           </div>
-          <div className="flex flex-wrap gap-4 self-start">
+          <div className="flex flex-wrap items-center justify-center w-full gap-4 self-start">
             {altere.obtention === "Craft" ? (
               <>
-                <p className="text-center w-full">Recette : </p>
+                <p className="text-center w-full font-bold text-xl">Recette : </p>
                 <p className="p-4 text-md rounded-sm bg-primary-blue">{altere.value}</p>
               </>
             ) : (
               <>
-                <p className="text-center w-full">Drop :</p>
+                <p className="text-center w-full font-bold text-xl">Drop :</p>
                 {zones.map((zone, index) => {
                   return (
-                    <p key={index} className="p-4 text-md rounded-sm bg-primary-blue">
+                    <p key={index} className="p-2 text-md rounded-sm bg-primary-blue">
                       {zone.replace("Altéré ", "").replace("(", "").replace(")", "")}
                     </p>
                   );
