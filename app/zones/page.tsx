@@ -4,7 +4,7 @@ import Altere from "../components/Altere";
 import alteres from "../../data/alteres.json";
 import sorts from "../../data/data_alteres_sorts.json";
 import { IAltere } from "@/types/types";
-const page = () => {
+const Page = () => {
   const [searchQuery, setSearchQuery] = useState(""); // State for search query
   return (
     <div className="flex w-full gap-4">
@@ -19,7 +19,7 @@ const page = () => {
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
         />
-        <div className="flex flex-col gap-4 pt-8">
+        {/* <div className="flex flex-col gap-4 pt-8">
           <p className="px-8 py-2 rounded-md select-none w-fit bg-secondary-blue hover:cursor-pointer">
             Forêt d'Amakna
           </p>
@@ -32,7 +32,7 @@ const page = () => {
           <p className="px-8 py-2 rounded-md select-none w-fit bg-secondary-blue hover:cursor-pointer">
             Forêt d'Amakna
           </p>
-        </div>
+        </div> */}
       </div>
       <div className="flex flex-col gap-8 pt-8 basis-1/2 ">
         <p className="text-xl">Altérés trouvable dans la zone</p>
@@ -48,4 +48,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

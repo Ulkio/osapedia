@@ -6,7 +6,7 @@ import alteres from "../../data/alteres.json";
 import sorts from "../../data/data_alteres_sorts.json";
 import { IAltere } from "@/types/types";
 
-const page = () => {
+const Page = () => {
   const [searchQuery, setSearchQuery] = useState("");
   return (
     <div className="flex flex-col w-full gap-4 pt-8">
@@ -34,4 +34,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

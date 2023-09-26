@@ -1,7 +1,7 @@
 import React from "react";
 import Monstre from "../components/Monstre";
 
-const page = () => {
+const Page = () => {
   return (
     <div className="flex flex-col w-full pt-8 gap-4">
       <h2 className="text-3xl w-1/2">Liste des monstres</h2>
@@ -24,4 +24,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

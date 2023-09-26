@@ -4,7 +4,7 @@ import Equipement from "../components/Equipement";
 import data from "../../data/data_drops.json";
 import { IItem } from "@/types/types";
 
-const page = () => {
+const Page = () => {
   const [searchQuery, setSearchQuery] = useState("");
   const [typeSelected, setTypeSelected] = useState("amulette");
 
@@ -53,4 +53,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
